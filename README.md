@@ -71,3 +71,5 @@ Một vài kiểu dữ liệu được sử dụng phổ biến nhất:
 - Any : Một biến với kiểu này có thể có giá trị là một string, number hoặc bất kỳ kiểu nào.
 - Arrays : Có 2 kiểu cú pháp: my_arr: number[]; hoặc my_arr: Array<number>.
 - Void : Được sử dụng khi hàm không trả lại bất kỳ giá trị nào.
+
+- Interface: được sử dụng để định nghĩa một kiểu dữ liệu tùy chỉnh, bao gồm các thuộc tính và phương thức mà một đối tượng phải có. interface giúp kiểm tra và định rõ cấu trúc của một đối tượng và đảm bảo tính nhất quán trong mã nguồn.
